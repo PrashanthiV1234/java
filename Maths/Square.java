@@ -15,17 +15,17 @@ public class Square {
     private static void Ls(int n){
        for(int i=1;i<=n;i++){
             System.out.print("\t*"); 
+       }
     }
 }
     
-}
 
-            square 
+            //square 
 
-        *       *       *       *
+        //*       *       *       *
 
-        *       *       *       *
+        //*       *       *       *
 
-        *       *       *       *
+        //*       *       *       *
 
-        *       *       *       *
+       // *       *       *       *
